@@ -1,8 +1,8 @@
 import { describe, expect, test } from 'vitest'
 
-import MessageBag from './MessageBag'
+import MessageBag from '../../../src/Support/MessageBag'
 
-describe('lib/Support/MessageBag', () => {
+describe('Illuminate/Support/MessageBag', () => {
   test('Uniqueness', () => {
     const container = new MessageBag()
 

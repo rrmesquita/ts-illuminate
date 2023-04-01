@@ -1,0 +1,30 @@
+{
+    "name": "ts-illuminate",
+    "version": "1.0.0",
+    "description": "JavaScript port of Laravel's Illuminate components.",
+    "scripts": {
+        "test": "vitest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rrmesquita/ts-illuminate.git"
+    },
+    "keywords": [
+        "illuminate",
+        "typescript"
+    ],
+    "author": {
+        "name": "Rodrigo Mesquita"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/rrmesquita/ts-illuminate/issues"
+    },
+    "homepage": "https://github.com/rrmesquita/ts-illuminate#readme",
+    "dependencies": {
+        "lodash": "^4.17.21"
+    },
+    "devDependencies": {
+        "vitest": "^0.29.8"
+    }
+}
